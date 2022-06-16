@@ -3,6 +3,7 @@
 	"author": "Marilena Pintagro",
 	"description": "Davvero un bel package",
 	"keywords": ["freecodecamp", "ciambelle", "omoteleuto"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
