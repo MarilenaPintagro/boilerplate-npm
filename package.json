@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Marilena Pintagro",
-	"description": "Davvero un bel package"
+	"description": "Davvero un bel package",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
