@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Marilena Pintagro",
 	"description": "Davvero un bel package",
+	"keywords": ["freecodecamp", "ciambelle", "omoteleuto"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
